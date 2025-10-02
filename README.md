@@ -37,7 +37,6 @@ A modern, responsive todo list application built with React. Features a clean in
 - **State Management**: React Hooks (useState, useEffect)
 - **Storage**: Browser localStorage
 - **Styling**: Pure CSS with Flexbox/Grid
-- **Icons**: (Optional - add if you include icons)
 
 ## 📦 Installation
 
