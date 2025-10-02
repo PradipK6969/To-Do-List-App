@@ -8,7 +8,7 @@ A modern, responsive todo list application built with React. Features a clean in
 
 ## 📸 Screenshots
 
-![Todo App Screenshot](public/Screenshot(1).png)(public/Screenshot.png)
+![Todo App Screenshot](public/Screenshot(1).png)
 
 
 ## ✨ Features
