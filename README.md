@@ -6,14 +6,10 @@ A modern, responsive todo list application built with React. Features a clean in
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-## 🚀 Live Demo
-
-[Add your live demo link here]
-
 ## 📸 Screenshots
 
 ![Todo App Screenshot](https://via.placeholder.com/800x400?text=Todo+App+Screenshot)
-*Add actual screenshots of your app here*
+
 
 ## ✨ Features
 
